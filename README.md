@@ -5,8 +5,11 @@
 ##-usage
 
 >**make** to compile the library
+
 >**make clean** to delet the object files
+
 >**make fclean* to delet the object files and the library file
+
 >**make re** to recompile
 
 ##-included fonctions
