@@ -39,17 +39,17 @@
 * **tolower**
 
 ##-Additional functions
-
+0
 ![ad1](imgs/ad1.png)
-
+1
 ![ad1](imgs/ad2.png)
-
+2
 ![ad1](imgs/ad3.png)
-
+3
 ![ad1](imgs/ad4.png)
-
+4
 ![ad1](imgs/ad5.png)
-
+5
 ![ad1](imgs/ad6.png)
-
+6
 ![ad1](imgs/ad7.png)
