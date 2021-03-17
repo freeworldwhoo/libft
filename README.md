@@ -41,9 +41,15 @@
 ##-Additional functions
 
 ![ad1](imgs/ad1.png)
+
 ![ad1](imgs/ad2.png)
+
 ![ad1](imgs/ad3.png)
+
 ![ad1](imgs/ad4.png)
+
 ![ad1](imgs/ad5.png)
+
 ![ad1](imgs/ad6.png)
+
 ![ad1](imgs/ad7.png)
