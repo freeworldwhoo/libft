@@ -8,7 +8,7 @@
 
 >**make clean** to delet the object files
 
->**make fclean* to delet the object files and the library file
+>**make fclean** to delet the object files and the library file
 
 >**make re** to recompile
 
